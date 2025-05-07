@@ -4,4 +4,4 @@
 
 ## 202504
 
-![](investmentfiles/investment2504.jpeg)
+![](investmentfiles/investment2504.jpg)
