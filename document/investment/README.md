@@ -4,3 +4,4 @@
 
 ## 202504
 
+![](investmentfiles/investment2504.jpeg)
