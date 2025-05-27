@@ -1,6 +1,6 @@
 # The First Five-Year Plan (2020-2025)
 
-<figure class="table" style="width:1200px;">
+<figure class="table" style="width:850px;">
       <table style="background-color:rgb(255, 255, 255);">
         <tbody>
           <tr>
